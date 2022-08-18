@@ -1,2 +1,2 @@
 # yuanta
-dividend yield strategy
+This is Yuanta seansonal dividend yld strategy. cool:)
